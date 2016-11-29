@@ -1,0 +1,8 @@
+C:\GitHub\EmalService\EmailService\EmailService\bin\Debug\EmailService.exe.config
+C:\GitHub\EmalService\EmailService\EmailService\obj\Debug\EmailService.csprojResolveAssemblyReference.cache
+C:\GitHub\EmalService\EmailService\EmailService\obj\Debug\EmailService.ProjectInstaller.resources
+C:\GitHub\EmalService\EmailService\EmailService\obj\Debug\EmailService.csproj.GenerateResource.Cache
+C:\GitHub\EmalService\EmailService\EmailService\bin\Debug\EmailService.exe
+C:\GitHub\EmalService\EmailService\EmailService\bin\Debug\EmailService.pdb
+C:\GitHub\EmalService\EmailService\EmailService\obj\Debug\EmailService.exe
+C:\GitHub\EmalService\EmailService\EmailService\obj\Debug\EmailService.pdb
